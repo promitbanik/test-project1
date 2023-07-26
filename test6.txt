@@ -1,1 +1,3 @@
-hello all
+hello everyone,
+
+Added this line to check "git diff" functionalities..
