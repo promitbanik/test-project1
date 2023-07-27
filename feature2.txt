@@ -1,1 +1,2 @@
 This file is created to check branching methods..
+A new line in master branch
